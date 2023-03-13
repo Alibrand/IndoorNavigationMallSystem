@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549222107732",
+    "project_id": "rachidmallsystem",
+    "storage_bucket": "rachidmallsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549222107732:android:0519abdab0d7b64867fbc1",
+        "android_client_info": {
+          "package_name": "com.rachid.nav.mallsystem.rachidmallsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549222107732-brekhe2gfubugdq6efg8tkp2fuejgupb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-00OkhwqOgHY6jGejyaBjRhSiZo6DBKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549222107732-brekhe2gfubugdq6efg8tkp2fuejgupb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
